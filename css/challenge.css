@@ -1,0 +1,43 @@
+.k1{
+background-color:blue;
+color:white;
+font-size: 3em;
+}
+.k2{
+  text-decoration:none;
+}
+p{
+  font-size:2em;
+}
+.h1{
+  border-style:solid;
+  background-color: green;
+  width: 350px;
+  display: inline-block;
+  color: white;
+  height: 300px;
+  margin: 0px;
+}
+.h2{
+  border-style:solid;
+  background-color: blue;
+  width: 250px;
+  display: inline-block;
+  color: white;
+  height: 30px;
+  margin: 0px;
+}
+.h3{
+  border-style:solid;
+  background-color: yellow;
+  width: 250px;
+  display: inline-block;
+  color: white;
+  height: 30px;
+  margin: 0px;
+}
+.spanclass2 {
+  position:relative;
+  bottom:50px;
+  right:50px;
+}

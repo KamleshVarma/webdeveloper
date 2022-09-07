@@ -1,0 +1,12 @@
+p {
+  background-color:aqua;
+  border-style:solid;
+/*   width:700px; */
+}
+.positioned {
+  background-color:yellow;
+  position:absolute;
+  top:500px;
+  margin-left:50px
+
+ }

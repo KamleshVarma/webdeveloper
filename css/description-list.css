@@ -1,0 +1,17 @@
+dt{
+  background-color: Blue;
+color: white;
+}
+dd{
+  background-color: aqua;
+  margin-left: 100px;
+}
+dl{
+  background-color:yellow;
+}
+dt + dd + dd{
+  background-color: red;
+}
+div > dd{
+  background-color: green;
+}

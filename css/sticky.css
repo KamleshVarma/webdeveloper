@@ -1,0 +1,42 @@
+dd{
+  border-top: 1px solid black;
+}
+.outer{
+  width:500px;
+  height:400px;
+  overflow: scroll;
+}
+dt{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: grey;
+    color:white;
+    position: sticky;
+    top:0px;
+}
+p{
+  height:500px;
+  width:800px;
+  background-color:aqua;
+  border:2px solid blue;
+  overflow: scroll;
+  padding-left: 200px;
+  position: relative;
+  left:300px;
+}
+.square{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  color: white;
+  position: sticky;
+  top:50px;
+  left:1400px;
+
+}
+h1{
+  position: sticky;
+  top:2px;
+  background-color: white;
+  width: 400px;
+}
